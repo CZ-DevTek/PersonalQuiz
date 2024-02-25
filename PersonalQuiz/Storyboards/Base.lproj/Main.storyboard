@@ -331,7 +331,6 @@
                             <constraint firstItem="PQD-JN-cre" firstAttribute="top" secondItem="ejH-dv-X4O" secondAttribute="top" constant="48" id="5j5-BL-5Js"/>
                             <constraint firstItem="ejH-dv-X4O" firstAttribute="trailing" secondItem="PQD-JN-cre" secondAttribute="trailing" constant="32" id="6dk-Op-tLC"/>
                             <constraint firstItem="PQD-JN-cre" firstAttribute="leading" secondItem="ejH-dv-X4O" secondAttribute="leading" constant="32" id="6sN-xg-w9G"/>
-                            <constraint firstItem="PQD-JN-cre" firstAttribute="centerX" secondItem="fN4-B1-rfr" secondAttribute="centerX" id="MiA-ge-Rgc"/>
                         </constraints>
                     </view>
                     <navigationItem key="navigationItem" title="Результат" id="icl-s8-iGo">
@@ -357,7 +356,7 @@
                 <navigationController automaticallyAdjustsScrollViewInsets="NO" id="z5l-3f-QSe" sceneMemberID="viewController">
                     <toolbarItems/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" largeTitles="YES" id="qCo-Bx-myd">
-                        <rect key="frame" x="0.0" y="0.0" width="320" height="98.5"/>
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="92.5"/>
                         <autoresizingMask key="autoresizingMask"/>
                     </navigationBar>
                     <nil name="viewControllers"/>
